@@ -184,15 +184,18 @@ const Overview = ({ setIsOpen }) => {
 
         </div>
 
-        {/* ── Right Side: Video ── */}
+        {/* ── Right Side: Image ── */}
         <div className="w-full lg:w-1/2 mt-8 lg:mt-0 order-1 lg:order-2" data-aos="fade-left">
           <div className="relative w-full flex justify-center items-center">
-            <iframe 
-              src="https://www.youtube.com/embed/n8qn5COb8vA?autoplay=1&mute=1&loop=1&playlist=n8qn5COb8vA&controls=0&modestbranding=1&rel=0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="w-full lg:w-[90%] aspect-video sm:aspect-[4/3] object-cover mx-auto rounded-xl shadow-2xl border-none pointer-events-none"
-            />
+            <div className="relative w-full lg:w-[90%] aspect-video sm:aspect-[4/3] mx-auto rounded-xl shadow-2xl overflow-hidden">
+              <Image
+                src={overviewImage}
+                alt="Mahindra Mahalunge Overview"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 50vw"
+              />
+            </div>
           </div>
         </div>
 

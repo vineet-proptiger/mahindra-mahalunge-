@@ -124,12 +124,12 @@ const IconMapPin = () => (
 )
 
 const highlights = [
-  { title: '88% OPEN SPACES', desc: 'Inspired by the GAIA philosophy, featuring landscaped gardens and over 3,000 trees.', Icon: IconTrees },
-  { title: 'ZERO COMMON WALLS', desc: 'Exclusive 3 BHK residences designed for maximum privacy and peaceful low-density living.', Icon: IconBuilding },
-  { title: 'TRIPLE HEIGHT BALCONIES', desc: 'Expansive balconies offering spectacular outdoor views and abundant natural light.', Icon: IconSunCloud },
-  { title: '70+ WORLD-CLASS AMENITIES', desc: 'Resort-style facilities designed to promote an active, healthy, and luxurious lifestyle.', Icon: IconSmart },
-  { title: '40,000 SQ. FT. CLUBHOUSE', desc: "A grand central clubhouse named The Season's Heart with wellness and recreational zones.", Icon: IconWaves },
-  { title: 'PRIME SARJAPUR LOCATION', desc: 'Strategically located in Pune, Baner NX with seamless city connectivity.', Icon: IconMapPin },
+  { title: 'EXPANSIVE 14 ACRES', desc: 'A majestic estate spread across 14 acres of prime land offering a lush verdant neighbourhood.', Icon: IconTrees },
+  { title: 'SCENIC RIVER VIEWS', desc: 'Mesmerising views of the Mula River ensuring a serene and tranquil living experience.', Icon: IconWaves },
+  { title: 'LUXURY 2, 3 & 4 BHK', desc: 'Spacious and meticulously designed luxury residences spread across majestic G+M+3P+30 floor towers.', Icon: IconBuilding },
+  { title: 'ELITE AMENITIES', desc: 'Thoughtfully curated amenities including a clubhouse, swimming pool, gymnasium, and amphitheatre.', Icon: IconSmart },
+  { title: 'HOLISTIC WELLNESS', desc: 'Dedicated zones for wellness including a yoga area, jogging tracks, and beautifully landscaped gardens.', Icon: IconSunCloud },
+  { title: 'PRIME BANER NX LOCATION', desc: 'Strategically located in Baner NX, Pune with seamless connectivity to Hinjewadi IT Park and major highways.', Icon: IconMapPin },
 ]
 
 const Highlights = ({ setIsOpen }) => (
