@@ -59,7 +59,7 @@ const Overview = ({ setIsOpen }) => {
           color: '#C9A96E', letterSpacing: '0.05em',
           textTransform: 'capitalize', margin: 0,
         }}>
-          Luxury Residential Project in Baner NX, Pune, Pune
+          Luxury Residential Project in Baner NX, Pune
         </h3>
       </div>
 
@@ -83,7 +83,7 @@ const Overview = ({ setIsOpen }) => {
               color: '#C9A96E', letterSpacing: '0.05em',
               textTransform: 'capitalize', margin: 0,
             }}>
-              Luxury Residential Project in Baner NX, Pune, Pune
+              Luxury Residential Project in Baner NX, Pune
             </h3>
           </div>
           
