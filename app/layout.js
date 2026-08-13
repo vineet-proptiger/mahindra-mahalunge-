@@ -34,8 +34,8 @@ const nephilm = localFont({
 
 export const metadata = {
   metadataBase: new URL('https://nbrsouloftheseason.co.in/'),
-  title: 'Mahindra Mahalunge | 3 BHK Flats in Baner NX',
-  description: "Escape to bountiful freshness and host yourself to an impeccable living atmosphere in Pune's Baner NX. An exotic green landscape compliments a stupendous 2-acre residential complex.",
+  title: 'Mahindra Mahalunge | Luxury 2, 3 & 4 BHK in Baner NX, Pune',
+  description: 'Discover Mahindra Mahalunge in Baner NX, Pune. Premium 2, 3 & 4 BHK luxury residences set in 14 lush acres with elite amenities and scenic river views.',
   icons: {
     icon: '/images/favicon/fav.webp',
   },
