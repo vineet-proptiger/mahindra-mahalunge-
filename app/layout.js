@@ -33,7 +33,7 @@ const nephilm = localFont({
 })
 
 export const metadata = {
-  metadataBase: new URL('https://nbrsouloftheseason.co.in/'),
+  metadataBase: new URL('https://mahindramahalunge.co.in/'),
   title: 'Mahindra Mahalunge | Luxury 2, 3 & 4 BHK in Baner NX, Pune',
   description: 'Discover Mahindra Mahalunge in Baner NX, Pune. Premium 2, 3 & 4 BHK luxury residences set in 14 lush acres with elite amenities and scenic river views.',
   icons: {

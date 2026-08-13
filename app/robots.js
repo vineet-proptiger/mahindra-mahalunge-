@@ -5,6 +5,6 @@ export default function robots() {
       allow: ['/'],
       // disallow: ['/vin', '/sector-46-gurgaon'],
     },
-    sitemap: 'https://nbrsouloftheseason.co.in/sitemap.xml',
+    sitemap: 'https://mahindramahalunge.co.in/sitemap.xml',
   }
 }

@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const base = 'https://nbrsouloftheseason.co.in'
+  const base = 'https://mahindramahalunge.co.in'
 
   return [
     {
