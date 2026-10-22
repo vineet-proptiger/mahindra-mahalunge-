@@ -10,7 +10,7 @@ const locationItems = [
   { name: 'Pune-Paud Road', dist: '15 mins' },
   { name: 'Chandani Chowk', dist: '30 mins' },
   { name: 'Hinjewadi IT Park', dist: '15 mins' },
-  { name: 'Mahalunge Circle', dist: '2 mins' },
+  { name: 'Upcoming Metro Station', dist: '2 mins' },
   { name: 'Maan Road', dist: '5 mins' },
   { name: 'Baner / Balewadi', dist: '10 mins' },
   { name: 'Delhi Public School', dist: 'Just Opposite' },

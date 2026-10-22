@@ -52,7 +52,7 @@ const Overview = ({ setIsOpen }) => {
           textTransform: 'uppercase', margin: '0 0 10px 0',
           display: 'flex', alignItems: 'center', justifyContent: 'flex-start', gap: '10px'
         }}>
-          Welcome to Mahindra Mahalunge
+          Welcome to Mahindra Rivenza
         </h2>
         <h3 style={{
           fontFamily: F_JOST, fontWeight: '500', fontSize: '14px',
@@ -76,7 +76,7 @@ const Overview = ({ setIsOpen }) => {
               textTransform: 'uppercase', margin: '0 0 10px 0',
               display: 'flex', alignItems: 'center', justifyContent: 'flex-start', gap: '10px'
             }}>
-              Welcome to Mahindra Mahalunge
+              Welcome to Mahindra Rivenza
             </h2>
             <h3 style={{
               fontFamily: F_JOST, fontWeight: '500', fontSize: '14px',
@@ -96,7 +96,7 @@ const Overview = ({ setIsOpen }) => {
           }}>
             {isExpanded ? (
               <>
-                Mahindra Lifespaces is launching an ambitious residential project called Mahindra Mahalunge in Baner NX, Pune. This majestic estate of 12 towers will feature spacious 2 BHK, 3 BHK, and 4 BHK residences along with a thoughtfully curated set of elite amenities. These homes will offer a mesmerising view of lush verdant neighbourhood and the Mula River. And amenities like a clubhouse, gymnasium, swimming pool, jogging track, landscaped garden, yoga zone, kids' play area, indoor games area, multipurpose court, and amphitheatre will make this enclave a heaven for everyone.{' '}
+                Mahindra Lifespaces is launching an ambitious residential project called Mahindra Rivenza in Baner NX, Pune. This majestic estate of 12 towers will feature spacious 2 BHK, 3 BHK, and 4 BHK residences along with a thoughtfully curated set of elite amenities. These homes will offer a mesmerising view of lush verdant neighbourhood and the Mula River. And amenities like a clubhouse, gymnasium, swimming pool, jogging track, landscaped garden, yoga zone, kids' play area, indoor games area, multipurpose court, and amphitheatre will make this enclave a heaven for everyone.{' '}
                 <button
                   onClick={() => setIsExpanded(false)}
                   style={{
@@ -117,7 +117,7 @@ const Overview = ({ setIsOpen }) => {
               </>
             ) : (
               <>
-                Mahindra Lifespaces is launching an ambitious residential project called Mahindra Mahalunge in Baner NX, Pune. This majestic estate of 12 towers will feature spacious 2 BHK, 3 BHK, and 4 BHK residences along with a thoughtfully curated set of elite amenities. These homes will offer a mesmerising view of lush verdant neighbourhood and the Mula River...{' '}
+                Mahindra Lifespaces is launching an ambitious residential project called Mahindra Rivenza in Baner NX, Pune. This majestic estate of 12 towers will feature spacious 2 BHK, 3 BHK, and 4 BHK residences along with a thoughtfully curated set of elite amenities. These homes will offer a mesmerising view of lush verdant neighbourhood and the Mula River...{' '}
                 <button
                   onClick={() => setIsExpanded(true)}
                   style={{
@@ -190,7 +190,7 @@ const Overview = ({ setIsOpen }) => {
             <div className="relative w-full lg:w-[90%] aspect-video sm:aspect-[4/3] mx-auto rounded-xl shadow-2xl overflow-hidden">
               <Image
                 src={overviewImage}
-                alt="Mahindra Mahalunge Overview"
+                alt="Mahindra Rivenza Overview"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

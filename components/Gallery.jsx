@@ -62,7 +62,7 @@ const Gallery = ({ setIsOpen }) => {
             <h2 data-aos="flip-left" data-aos-delay="500" style={{
               fontFamily: F_JOST, fontWeight: '700', fontSize: '18px',
               color: '#684C1B', letterSpacing: '0.1em', textTransform: 'uppercase', margin: 0,
-            }} className="text-center">Mahindra Mahalunge GALLERY</h2>
+            }} className="text-center">Mahindra Rivenza GALLERY</h2>
           </div>
         </div>
 
@@ -100,7 +100,7 @@ const Gallery = ({ setIsOpen }) => {
                     textTransform: 'uppercase' 
                   }}
                 >
-                  {img.alt ? img.alt.replace('Mahindra Mahalunge - ', '') : 'VIEW PREVIEW'}
+                  {img.alt ? img.alt.replace('Mahindra Rivenza - ', '') : 'VIEW PREVIEW'}
                 </span>
               </div>
             </div>

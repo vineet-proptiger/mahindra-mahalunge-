@@ -10,12 +10,14 @@ def replace_in_file(filepath):
         
     original = content
     # Replace the project name
-    content = re.sub(r'(?i)NBR Soul of The Season', 'Mahindra Mahalunge', content)
-    content = re.sub(r'(?i)Soul of the Seasons', 'Mahindra Mahalunge', content)
+    content = re.sub(r'(?i)Mahindra Mahalunge', 'Mahindra Rivenza', content)
+    content = re.sub(r'(?i)NBR Soul of The Season', 'Mahindra Rivenza', content)
+    content = re.sub(r'(?i)Soul of the Seasons', 'Mahindra Rivenza', content)
     content = re.sub(r'(?i)NBR Group', 'Mahindra Lifespaces', content)
     
     # Specific for the whatsapp link where URL encoding is used
-    content = content.replace('NBR%20Soul%20of%20The%20Season', 'Mahindra%20Mahalunge')
+    content = content.replace('Mahindra%20Mahalunge', 'Mahindra%20Rivenza')
+    content = content.replace('NBR%20Soul%20of%20The%20Season', 'Mahindra%20Rivenza')
     
     # Also replace Sarjapur Road / Bangalore with Baner NX, Pune
     content = re.sub(r'(?i)Sarjapur Road', 'Baner NX', content)

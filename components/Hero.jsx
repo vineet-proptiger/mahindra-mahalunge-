@@ -411,7 +411,7 @@ const Hero = ({ setIsOpen }) => {
         <>
             {/* Main Heading */}
             <h1 className="hero-title" data-aos="zoom-in-up" data-aos-delay="0">
-             Mahindra Mahalunge
+             Mahindra Rivenza
             </h1>
 
             {/* Subtitle */}

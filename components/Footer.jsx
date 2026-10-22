@@ -11,7 +11,7 @@ const Footer = () => (
 
     <div style={{ maxWidth: '860px', margin: '0 auto', padding: '56px 24px 32px', textAlign: 'center' }}>
       <h2 style={{ fontSize: '24px', fontWeight: '800', fontFamily: F_JOST, marginBottom: '6px', textTransform: 'uppercase', letterSpacing: '0.05em' }} data-aos="fade-in">
-        Mahindra Mahalunge
+        Mahindra Rivenza
       </h2> 
       <p style={{ fontSize: '13px', color: 'var(--color-gold)', fontFamily: F_JOST, fontWeight: '700', letterSpacing: '1.5px', textTransform: 'uppercase', marginBottom: '12px' }}>
         2, 3 & 4 BHK Luxury Residences — Baner NX, Pune
@@ -21,7 +21,7 @@ const Footer = () => (
       </div>
       <p style={{ fontSize: '15px', color: '#bbb', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '24px', textAlign: 'justify' }}
         data-aos="fade-in" data-aos-delay="100">
-        The luxury residential project, Mahindra Mahalunge introduces the best  2, 3 & 4 BHK apartments in Baner NX,Pune. Along with bespoke conveniences the reputed developer aims to render privacy.
+        The luxury residential project, Mahindra Rivenza introduces the best 2, 3 & 4 BHK apartments in Baner NX, Pune. Along with bespoke conveniences the reputed developer aims to render privacy.
       </p>
       
       {/* RERA Block */}
@@ -33,7 +33,7 @@ const Footer = () => (
 
     <div className="flex flex-col sm:flex-row items-center justify-center sm:justify-between gap-4 py-4 px-6 border-t border-[#222] text-center sm:text-left max-w-[1200px] mx-auto">
       <p style={{ fontSize: '13px', color: '#888', fontFamily: F_SANS }}>
-        &copy; 2026 Mahindra Mahalunge. All rights reserved.
+        &copy; 2026 Mahindra Rivenza. All rights reserved.
       </p>
       <div className="flex flex-wrap justify-center items-center gap-4 sm:gap-6">
         <Link href="/privacy-policy" style={{ fontSize: '13px', color: 'var(--color-gold)', fontFamily: F_SANS }}>
