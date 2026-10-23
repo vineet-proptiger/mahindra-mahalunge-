@@ -57,7 +57,7 @@ const Navbar = ({ setIsOpen }) => {
             `}</style>
             <img
               src={logoImages.main}
-              alt="Mahindra Rivenza"
+              alt="Mahindra Rivenza Mahalunge"
               className="nav-logo"
             />
           </a>

@@ -63,7 +63,7 @@ const EnquireModal = ({ isOpen, setIsOpen }) => {
               <div className="relative w-[230px] sm:w-[260px] h-[76px] sm:h-[86px] shrink-0">
                 <Image 
                   src={logoImages.main} 
-                  alt="Mahindra Rivenza Logo" 
+                  alt="Mahindra Rivenza Mahalunge Logo" 
                   fill 
                   className="object-contain" 
                 />
